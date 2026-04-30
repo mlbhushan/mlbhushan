@@ -29,6 +29,15 @@ class AIEngineer:
 me = AIEngineer()
 ```
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mlbhushan/mlbhushan/output/github-snake-dark.svg)
+
+</div>
+
+
 ---
 
 ## 🧠 Core Competencies
@@ -143,20 +152,7 @@ me = AIEngineer()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/mlbhushan/mlbhushan/output/github-snake-dark.svg)
-
-</div>
-
-<!-- To enable the snake, add a GitHub Action workflow:
-     https://github.com/Platane/snk -->
-
----
-
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - 🧪 Fine-tuning open-source LLMs for domain-specific tasks
 - 🏗️ Building production-grade RAG systems with evaluation pipelines
